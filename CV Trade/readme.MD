@@ -43,7 +43,7 @@ To get started with the bot, follow these steps:
   "howManyAccountsRunInOneTime": 100,
   "doTasks": true,
   "playGames": true,
-  "referralCode": "" // Do not change it if you want to support me ^^
+  "referralCode": "6713068747" // Do not change it if you want to support me ^^
 }
 ```
 
